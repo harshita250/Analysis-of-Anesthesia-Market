@@ -1,7 +1,3 @@
-Here’s a suggested structure for your **README.md** file tailored to the project details:
-
----
-
 # Healthcare Market Analysis & Sales Strategy Recommendations
 
 ## Project Overview
@@ -28,26 +24,10 @@ This project analyzes healthcare claims data (2016–2018) to uncover actionable
 3. **Business Expansion:** Develop data-driven strategies to counter competitor growth and enhance Product 2 adoption.
 
 ## Technologies Used
-- **Languages:** Python, R
-- **Libraries:** pandas, NumPy, matplotlib
-- **Tools:** Jupyter Notebook, Tableau (for visualization)
+- **Languages:** Python
+- **Libraries:** pandas, NumPy, matplotlib, seaborn
+- **Tools:** Jupyter Notebook
 
-## File Structure
-- `data/`: Contains raw and cleaned datasets.
-- `notebooks/`: Includes Jupyter notebooks for data preprocessing, analysis, and visualization.
-- `visualizations/`: Contains output charts and graphs.
-- `presentation/`: Final project presentation slides.
-
-## Getting Started
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-repo/healthcare-analysis.git
-   ```
-2. Navigate to the `notebooks` directory and open `main_analysis.ipynb` using Jupyter Notebook.
-3. Ensure all required Python libraries are installed. Use `requirements.txt` for installation:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Future Work
 - Perform **geographical analysis** to identify regional trends in claims and HCP behavior.
@@ -61,7 +41,3 @@ This project analyzes healthcare claims data (2016–2018) to uncover actionable
 - Meghana
 - Shanmukh
 - Varsha
-
----
-
-Feel free to adjust the tone or add/remove sections based on your preferences!
